@@ -19,7 +19,7 @@
 &nbsp; 
 <!--
 **aLLUPS/aLLUPS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
--  My Portfolio https://zibras-ismail.vercel.app
+-  My Portfolio https://www.zibrasismail.site
  &nbsp;
 
 ### - Languages and Tools...
